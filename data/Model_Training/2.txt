@@ -1,0 +1,84 @@
+TEAM PROGRESS TO DATE 
+  
+Data 
+Inception wrapping up this week 
+Confirm with Liz re: mechanism to ingest conversion data to DL 
+Backlog in progress 
+Complete data source matrix - tables & names (dependency on data source teams) 
+Environment requested - target for end of week 
+North America and Phil. data approve received 
+Meeting with test & alg teams  
+  
+Algorithms 
+New sandbox being requested 
+Met with Test team 
+Met with Marta re: data 
+Alg arch changes in progress 
+  
+UI 
+Resolved issue identified with Bill 
+Second week of Sprint 4 (ends today) 
+Discuss technical issue with widget with people team 
+  
+Testing 
+UI test cases added in TFS; under review with Bill 
+Updating TFS dashboard 
+Preparing input/output data 
+Need test users and access to CAP - for ingestion will get access to Data Lake 
+Daily call with data team 
+  
+Integration 
+  
+Insights 
+  
+Product Owner 
+ITF work in progress; testing will need to be synced up (bringing skill IDs from CD) 
+Starting backlog for TH in xls 
+Mickey to help create backlog for insights stories (he'll be Prod Owner) 
+   
+  
+  
+TEAM PLANNED WORK / TO DO 
+  
+Data 
+Start sprint 1 next week (2 weeks for POC for team members to learn) 
+Expecting data privacy approval from India in 1-2 weeks 
+  
+Algorithms 
+Continue to meet with Test team 
+Follow up meeting with Marta 
+Work with common demand - ingesting data (REBAR, DL) 
+Mtg on Friday with CD 
+Work with Natalia re: test users and CAP access 
+  
+UI 
+Meeting with Mandy's team on Thursday 
+Sprint 4 demo next week - Wed…time adjusted so Jim can attend 
+  
+Testing 
+Test prep work 
+Updating cases in TFS 
+  
+Integration 
+  
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Watch sandbox set up; needs to be setup…working with CAP  
+Slow replies from source teams 
+  
+Algorithms 
+  
+UI 
+  
+  
+Testing 
+Watching delivery of test cases within the sprint 
+  
+Integration 
+  
+Insights 
+ 

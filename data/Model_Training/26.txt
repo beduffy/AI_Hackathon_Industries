@@ -1,0 +1,64 @@
+
+ 
+ 
+TEAM PROGRESS TO DATE 
+Data Conversion 
+Sprint 2 in progress – develop planned to be completed 
+Select population story being finished; starting CD cleansing  
+Server is installed 
+Connectivity with TH – port to be opened (low); SR MGR Approval mail - AMY 
+Test team access  - access granted and testing started 
+ 
+ 
+Algorithms 
+Configuration items in progress 
+Abacus Ops and CV source user stories are pending to be tested but the code is completed 
+Team is working with the integration team on creating the tables/services needed for the Alg1. Expectations to get this done no later than the end of the coming week  
+New member in the team will start working on Monday. Diego will transition the work to him during his last week in the company. 
+Refinement meetings for Alg3 business logic will have to be scheduled next week 
+ 
+Integration & Architecture  
+Workflow starting, meeting with Nara on Monday 
+Backlog updated in TFS 
+Alg 1 services & infrastructure in progress 
+Admin UI for proximity to completed 
+Config maintenance screens development (web page to manage the configurable items) 
+Add performance consideration into the design & testing 
+Config workbook created by Bill includes the configurable reference values 
+ 
+ 
+Insights  
+Dashboard redesign in progress per Jim's feedback, discussion today on priorities 
+CAP sandbox that Marta's team was going to use can be leveraged by Insights team 
+In progress to get access 
+Licenses – CR raised 
+Loaner licenses received 
+Leader discussion next session TBD (2 this week) 
+Call with Greg/Kush/Susan to prep for mtg with Ellyn 
+Dates with Ellyn not locked down 
+CAP team documents for onboarding in progress 
+ 
+UI 
+Sprint 7 deployed & tested  
+Sept 29 – Sprint 7 demo 
+Meeting today re: integration stories today 
+Drafting estimate for Sprint 8 integration stories 
+ 
+ 
+Testing 
+Sprint 6 UI testing completed – 1 defect 
+UI Sprint 7 testing review done and start today 
+access to server for data conversion testing – testing started 
+Close Data testing sprint 1 next week and start sprint 2  
+Alg test cases being reviewed with Bill & Katie 
+ 
+ 
+Product Owner 
+Alg 2 sprint stories updates, Assessment Type & Method to include existing TH data 
+Spez walkthrough Oct 9th week 
+MME & mySch Industry skills issue – but doesn't impact S@S; Amy/Katie to discuss off line 
+Need to ensure AFS data is not included in UI test data set (company code 1010) 
+Reviewing Tier assignment for Ops purposes (business case required) 
+TH dashboard needs some performance review – define targets (employee, admin, algorithm) 
+   
+ 

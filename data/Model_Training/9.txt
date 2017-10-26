@@ -1,0 +1,84 @@
+
+TEAM PROGRESS TO DATE 
+ Data Conversion 
+Common Demand – do all records have a CD ID?? 
+Yes, all records will have a CD ID.  
+There can be multiple demand events for a single Demand record due to updates – all will share that CD ID. 
+There is a unique Message ID to identify the events for each Demand record. 
+
+ 
+ 
+Algorithms 
+Issue in POC – how skills are being captured from Assigned Role will be fixed in this Sprint 
+Working on exclusion on countries and company codes – impediment with Ranger tool – check config in alternative environment. 
+Also solve for exclusion of withdrawn / retired employees 
+Environment ready for demo tomorrow  -demo on Friday 
+ 
+ 
+UI 
+Last day of week 1 for Sprint 5 
+1 impediment – owing to Sprint re-plan on Monday 
+Is the Back-end Admin page & gone fishing? Who can we confirm this with? 
+Team need a sample backend UI wireframe. 
+Team reached out to Mandy to see if there is a design framework to follow. 
+Team will provide an early look into the design of the Splash screen.  
+ 
+ 
+Testing 
+UI test cases complete – 8 successful, 7 failed. 
+People Team widget no applicable 
+Had call for Mock Data preparation for UI testing 
+Team will talk to Gloria about the scope to define Test approach for each Sprint 
+Team will use Skill IDs for matching purposes to match older skills to current values. 
+ 
+Integration 
+  
+Insights 
+  
+Product Owner 
+Admin stories for mass upload (UI or TH?) 
+ITF work in progress; testing will need to be synced up (bringing skill IDs from CD) 
+Starting backlog for TH in xls 
+Mickey to help create backlog for insights stories (he'll be Prod Owner) 
+   
+  
+TEAM PLANNED WORK / TO DO 
+   
+Data Conversion 
+ 
+Algorithms 
+Only 2 stories were completed from the Committed work out of 28 – remaining 4 were bugs that were resolved. 
+ 
+UI 
+2nd week of Sprint 5 – scope changed but burndown is still looking good 
+Flash and Admin exceed remaining velocity but team will work to try and finish 
+Gone Fishing has been pushed to next Sprint 
+Screenshot / wireframe to be used for guidance on structure only. 
+ 
+Testing 
+UI Testing – new test cases created, including for Bugs 
+Team to review with Bill – today or Monday 
+US#19808 – processing test data for this story now and will validate later 
+Move Sprint 1 stories to Sprint 2 where they are no longer relevant (CV Resume stories should be on-hold for now) 
+ 
+Integration 
+ 
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Watch sandbox set up; needs to be setup…working with CAP  
+Making a decision about Common Demand data for conversion rather than multiple sources (mySch and Abacus)  
+Algorithms 
+Availability of Test Data 
+UI 
+ Screenshot from People team for splash admin page 
+Testing 
+Watching delivery of test cases within the sprint 
+Availability of Test Data  
+Integration 
+Insights 
+  
+ 

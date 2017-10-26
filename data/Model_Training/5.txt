@@ -1,0 +1,104 @@
+
+TEAM PROGRESS TO DATE 
+  
+Data 
+Inception wrapping up this week – Environment config 
+Environment requested – to be completed on Monday 
+Confirm with Liz re: mechanism to ingest conversion data to DL 
+Backlog in progress for Sprint 1 (4 stories - POC ingestions & formatting) 
+Complete data source matrix - tables & names (dependency on data source teams) 
+Reviewing sources, in particular data from Common Demand to evaluate possibility of using for data conversion (Not suitable for myCV data) 
+MME data – obtain from Common Demand; no Industry skill for IDC/PDC (stored in a different field) 
+Are there needs to keep CD in DL or not? – check with CD & CAP 
+  
+Algorithms 
+New sandbox is configured 
+Met with Test team – test environment ready and data has been migrated 
+Work with Natalia re: test users and CAP access 
+  
+UI 
+Sprint 4 to wrap up on Wed (Aug 2) - final testing Tuesday, Critical defects to be resolved before Wednesday 
+Sprint 5 stories identified – choose on Wed call after demo 
+Admin stories – begin discussing for Sprint 6 
+  
+Testing 
+ 
+UI test cases added in TFS; under review with Bill 
+Updating TFS dashboard 
+Preparing input/output data 
+Need test users and access to CAP - for ingestion will get access to Data Lake 
+Daily call with data team 
+  
+Integration 
+  
+Insights 
+  
+Product Owner 
+Admin stories for mass upload (UI or TH?) 
+ITF work in progress; testing will need to be synced up (bringing skill IDs from CD) 
+Starting backlog for TH in xls 
+Mickey to help create backlog for insights stories (he'll be Prod Owner) 
+   
+  
+TEAM PLANNED WORK / TO DO 
+  
+Data 
+Environment configuration – Monday - Complete 
+PC configuration – Tuesday – Ongoing x1 
+POC for Ingestion from Tuesday onwards – Started today 
+Continue with sprint 1 next week (2 weeks for POC for team members to learn) 
+Expecting data privacy approval from India in 1-2 weeks 
+  
+Algorithms 
+Continue to meet with Test team – Natalia.. 
+Follow up meeting with Marta 
+Work with common demand - ingesting data (REBAR, DL) 
+Mtg on Friday with CD 
+Alg arch changes in progress – ongoing. Jose (SME) has returned from PTO. Alg 1 & 2 replatformed to Scala. 
+Miguel to support team on Tech questions 
+Sprint 1 user story review to happen tomorrow – mail to be sent tomorrow with reconciliation of work effort 
+  
+UI 
+Sprint 4 demo next week - Wed…time adjusted so Jim can attend 
+Demo on Wed; Jim will attend 
+Continuing to review widget approach with people team (in progress) - initial POC to be provided this week. 
+In next 1 / 2 sprints team need to focus on backend development to prevent a blocker on UI progress from occurring. - Arthur to update Amy this week. 
+Stories in place to begin Sprint 5. 3 weeks needed to work on Admin Stories – understand deep requirements. 
+Admin stories to be worked in Sprint 6 - potentially.. 
+  
+Testing 
+Alg team to meet with Natalia for testing 
+Test prep work 
+Updating cases in TFS for new stories 
+They will begin testing for all previous sprints – UI (regression) - Testing underway for Sprint 1. 
+UI Test Cases have been assigned, but testing not started for ALg 1 as CAP is not ready. Team are working to prepare test data. 
+Sandbox access is delayed. 
+From Wed they will begin testing for Sprint 4 – UI 
+Rui to ensure Testing and CAP Dev teams review the Test Suites together before testing begins 
+Had call with CAP team to discuss test cases around Alg 1. 
+Confirmation needed on where to source data from for testing. 
+  
+Integration 
+  
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Watch sandbox set up; needs to be setup…working with CAP  
+Making a decision about Common Demand data for conversion rather than multiple sources (mySch and Abacus)  
+  
+Algorithms 
+  
+UI 
+  
+  
+Testing 
+Watching delivery of test cases within the sprint 
+  
+Integration 
+  
+Insights 
+  
+ 

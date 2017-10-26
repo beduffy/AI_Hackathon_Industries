@@ -1,0 +1,110 @@
+
+TEAM PROGRESS TO DATE 
+ Data Conversion 
+Updating matrix, closing open points on data sources 
+CV resume & CD samples from Randy; requesting queries to include with request (Luu is the backup) 
+Target to send CD request Wed 
+SAP – following up with Andreas re: extract format (tab delimited vs csv) 
+Sept 8th data to return requests 
+ 
+Review impacts of algorithms platform change & update blueprint 
+Update backlog (Deb & Foram) 
+Lock down the key milestones for Sources to provide data 
+ 
+Question from Common Demand – Is there a requirement to tag the Optional Skills as 1, 2, 3 etc? Will a weighting be placed on them during execution of the algorithms? [KS] Primary will be the main focus. No need to determine ordering for Optional. 
+Common Demand – do all records have a CD ID?? 
+Yes, all records will have a CD ID.  
+There can be multiple demand events for a single Demand record due to updates – all will share that CD ID. 
+There is a unique Message ID to identify the events for each Demand record. 
+ 
+Algorithms 
+Only 2 stories were completed from the Committed work out of 28 – remaining 4 were bugs that were resolved. 
+ 
+UI 
+3rd week of Sprint 5 in progress; demo this week (Wed)  (1 developer on unplanned leave) 
+Admin stories – evaluate impact of reusing existing admin 
+Bill to send update re: permissions and home page today 
+Estimate done on remaining non-integration stories (Arthur); confirm stories have priorities (Bill) 
+ 
+Provide Bill with extract of UI stories – Miguel 
+FY18 planning for China team - Amy/Arthur 
+ 
+Testing 
+Focus on UI (Sprint 5) ~1 week; then start Sprint 6 
+CD test conditions in progress  
+Reviewing/Preparing test case for algorithms to the extent info is available and sample test data 
+Natalia PTO next 3 weeks Nikhil will provide back up 
+ 
+Integration 
+Insights  
+Product Owner 
+Data for testing and all scenarios  
+Collections  
+Admin stories for mass upload (UI or TH?) 
+ITF work in progress; testing will need to be synced up (bringing skill IDs from CD) 
+Starting backlog for TH in xls 
+Mickey to help create backlog for insights stories (he'll be Prod Owner) 
+   
+  
+TEAM PLANNED WORK / TO DO 
+   
+Data Conversion 
+Following up on open questions regarding the age of Common Demand data – Abacus & myScheduling. 
+Moving forward with updates to documentation – Detailed Scope, Approach, Workplan & Backlog. 
+Common Demand to replace myScheduling and HRRA. 
+CV Resume data to be sourced directly. (42% of records have an edited End Date in CV Resume) 
+SAP data will be sourced directly, as well as from Lake. 
+Only Abacus Tech confirmed as being in Common Demand entirely. 
+Solution Blueprint to be revised when Conchi returns from PTO. 
+Other deliverables will be completed during Sprint 2 as Foram is on PTO this week. 
+Additional tables CAP are looking to ingest from TH are not ready yet in TH. Design is still in progress there. 
+ 
+Algorithms 
+Sprint 2 planning has been put on hold today. 
+Team working to assimilate Common Demand data for testing Alg 1. 
+Spark job not running outside the command line. 
+Will connect with Amy to reschedule planning meeting. 
+Ed same request for Algorithm team - There is 69 Product Backlog items without Story points  
+There is 37 Product Backlog items without Priority  
+ 
+UI 
+Demo for Sprint  next Wednesday. 
+UI stories – 40 need effort and 80 need priority. 
+16 stories still be reviewed for effort 
+Done stories will have effort updated. 
+Need to determine priority with Product Owners. 
+Open questions on administration / security of the new view(s). 
+ 
+ 
+Testing 
+ 
+
+Sprint 2 scope will be reviewed later. 
+Team have a call with the UI team for test data setup and test cases. 
+Team to have call with Bill regarding Common Demand. 
+ 
+Integration 
+ 
+ 
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Watch sandbox set up; needs to be setup…working with CAP  
+Making a decision about Common Demand data for conversion rather than multiple sources (mySch and Abacus)  
+ 
+Algorithms 
+Availability of Test Data 
+ 
+UI 
+ Screenshot from People team for splash admin page 
+ 
+Testing 
+Watching delivery of test cases within the sprint 
+Availability of Test Data  
+Integration 
+Insights 
+  
+ 

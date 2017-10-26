@@ -1,0 +1,96 @@
+
+TEAM PROGRESS TO DATE 
+ Data Conversion 
+Held planning call today for Sprint 1 
+Backlog updated – 7 stories estimated with a total of 40 story points – 4 stories to be committed initially. 
+Expected velocity is 25 story points for this Sprint. 
+Data requests – evaluating JSON ingestion for Common Demand 
+Revised timeline for Conversion and shared / agreed with business 
+Meeting with Common Demand tomorrow regarding backup of DB  
+Still to determine if this approach will cost $ to extract data 
+Need confirmation from the Algorithms team to ensure their output format is correct. 
+ 
+Algorithms 
+2 new resources on the team. 
+Meeting tomorrow to review the entire process. 
+Replan in progress. 
+In process of reviewing functional design deliverables. 
+Review what (if anything) can be reused that was built in CAP. 
+Need to review functional design deliverables with Helena. 
+Need to understand if Helena has validated the data being delivered by Marta's team. 
+ 
+UI 
+Second week of Sprint 6  
+Sprint 7 stories have been prioritised – shorter Sprint to allow for national holiday 
+Some Sprint 5 items not marked as done because they are defects. 
+Admin Front End section not needed now – backend logic will be pursued still. 
+ 
+Testing 
+Closed Sprint 5 UI testing.  
+Helena to update daily digest with metrics. 
+Sprint 6 internal review is ongoing now. 
+To meet with Bill and Jim tomorrow for approval. 
+Follow up mtg with CD test team tomorrow; working on test data template & prep data 
+Test Data Management – will provide progress update on next call. 
+ 
+ 
+Integration & Architecture  
+CD integration – pending tech sign off – for Thursday 
+Amy revisit with Phil today 
+CR for end date event?  see mail from Mags 
+Walk through conceptual data model 
+Add performance consideration into the design & testing 
+ 
+Insights  
+Begin to shape backlog – dimension "epics" 
+Product Owner to be named – Jim  
+ 
+Product Owner 
+Reviewing Tier assignment for Ops purposes (business case required) 
+TH dashboard needs some performance review – define targets (employee, admin, algorithm) 
+Continue to refine backlogs to get more precision on delivery timing 
+   
+TEAM PLANNED WORK / TO DO 
+   
+Data Conversion 
+TH location confirmation 
+Sep 6 deadline to receive data 
+Complete user stories for cleansing 
+Send Abacus Ops request this week 
+Define tables in TH for ingestion 
+ 
+Algorithms 
+ 
+ 
+UI 
+ 
+ 
+ 
+Testing 
+Start sprint 6 planning test cases 
+ 
+Integration 
+ 
+ 
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Data Privacy approval for "complex" countries 
+Time to complete stories for starting Sprint 1 
+ 
+Algorithms 
+Availability of Test Data 
+ 
+UI 
+  
+ 
+Testing 
+Aligning timeline for integration testing with CD 
+Rebar staging access & usage – see forwarded mail from Katie 
+ 
+Integration 
+ 
+Insights 

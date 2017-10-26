@@ -1,0 +1,88 @@
+
+TEAM PROGRESS TO DATE 
+ Data Conversion 
+Data requests sent ( Abacus Ops ) 
+Backlog review; cleansing, etc. 
+Revising timeline 
+Staging env't set up yesterday, working through connectivity 
+See input from Randy re: cost to extract data; send database backup (dynamo), not csv 
+ 
+ 
+Algorithms 
+Replan in progress. 
+Review what (if anything) can be reused that was built in CAP 
+Work with Helena re: POC code (Java), anything can leverage? (she's available Tue & Thur) 
+ 
+UI 
+Sprint 6 stories confirmed per team revised velocity 
+Project 1 more sprint needed to complete non-integration stories 
+Identify integration stories in TFS (Bill/Arthur); see story titles 
+Review sprint 7 content by next week 
+Identify integration stories to sync with Integration workstream 
+Send integration contact 
+ 
+Testing 
+Sprint 5 UI testing, 12 test cases passed, 3 failed, 3 bugs; discuss in today's call 
+follow up mtg with CD test team tomorrow; working on test data template & prep data 
+ 
+ 
+Integration & Architecture  
+CD integration – pending tech sign off – for Thursday 
+Amy revisit with Phil today 
+CR for end date event?  see mail from Mags 
+Walk through conceptual data model 
+Add performance consideration into the design & testing 
+ 
+Insights  
+Begin to shape backlog – dimension "epics" 
+Product Owner to be named – Jim  
+ 
+Product Owner 
+Reviewing Tier assignment for Ops purposes (business case required) 
+TH dashboard needs some performance review – define targets (employee, admin, algorithm) 
+Continue to refine backlogs to get more precision on delivery timing 
+   
+TEAM PLANNED WORK / TO DO 
+   
+Data Conversion 
+TH location confirmation 
+Sep 6 deadline to receive data 
+Complete user stories for cleansing 
+Send Abacus Ops request this week 
+Define tables in TH for ingestion 
+ 
+Algorithms 
+ 
+ 
+UI 
+ 
+ 
+ 
+Testing 
+Start sprint 6 planning test cases 
+ 
+Integration 
+ 
+ 
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Data Privacy approval for "complex" countries 
+Time to complete stories for starting Sprint 1 
+ 
+Algorithms 
+Availability of Test Data 
+ 
+UI 
+  
+ 
+Testing 
+Aligning timeline for integration testing with CD 
+Rebar staging access & usage – see forwarded mail from Katie 
+ 
+Integration 
+ 
+Insights 

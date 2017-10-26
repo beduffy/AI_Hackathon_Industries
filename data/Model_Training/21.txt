@@ -1,0 +1,64 @@
+
+
+ 
+TEAM PROGRESS TO DATE 
+Data Conversion 
+Ingestion stories updated  
+MyCV some issues with the names, in progress 
+CD update to ingestion package, need to ingest some additional fields  
+Select population story started 
+Cleansing user stories in progress for review with Deb 
+SAP story start tomorrow 
+Server is in progress, installing SQL/software, escalated; can continue to work in local 
+Reviewing reference data; meetings with Phil in progress; table approach mtg on Monday 
+Discuss Specialization collections open point with Katie 
+Close plan for CAMS, Cert data 
+On track for sprint 2/3 (server) 
+ 
+ 
+Algorithms 
+Met with Bill to review sprint 1 stories & commit 
+open point re: Emerging/Traditional and how to identify them; Luis follow up questions 
+Meeting with Helena re: POC calculations approach 
+Review collections data 
+Meeting with Phil today for processing day 0 volume 
+Meeting with Data team re: contextual skills & approach to process them 
+Set up invites for refinements meeting for next week 
+ 
+ 
+UI 
+Showcase yesterday; minor fixes 
+Sprint 7 planning on Monday; 2 weeks due to China holiday 
+Meeting with Test team 
+ 
+ 
+Testing 
+Sprint 6 UI testing started 
+Monday UI Sprint 7 planning meeting invite 
+Met with data conversion team; all scenarios discussed 
+Met today with Abacus team re: integration scenarios & working on data prep 
+Get involved in Algorithm team meetings 
+ 
+Integration & Architecture  
+KT with Ops team & getting solution installed and running 
+Modifying data model 
+Ryan – TFS access issue (escalated with TFS team) AMY 
+Reviewing data requirements & defining integration solution blueprint 
+Add performance consideration into the design & testing 
+ 
+Insights  
+Licenses – CR raised 
+POC demo later today 
+CAP team documents for onboarding in progress 
+ 
+ 
+Product Owner 
+Need to ensure AFS data is not included in UI test data set (company code 1010) 
+Review if really need to exclude AVA from test population or not (Katie); Amy send AVA company codes 
+Finalizing reference data, on target for end of week 
+Refining backlog 
+Reviewing Tier assignment for Ops purposes (business case required) 
+TH dashboard needs some performance review – define targets (employee, admin, algorithm) 
+Continue to refine backlogs to get more precision on delivery timing 
+   
+ 

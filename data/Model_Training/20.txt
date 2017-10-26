@@ -1,0 +1,57 @@
+
+
+ 
+TEAM PROGRESS TO DATE 
+ Data Conversion 
+Sprint 1 in progess – 2nd week 
+Finished story to import tables 
+POC for CD on track; connectivity issue resolved; downloaded files from S3, pending to test with server 
+Submit request for server (WBS confirmed) to complete POC in server – for Sep 14th 
+Started story to bring data from TH to server (including reference data) 
+Skills data will come from TH 
+Reference data pending 
+Evaluate conversion for CD & CV and impacts for UI – reviewing with Lulu from CD, mySched has archived records but not archived in CD 
+Continue to update data matrix as changes (minor) come from sources 
+ 
+Algorithms 
+Met with Bill to review proficiency calculation 
+open point re: Emerging/Traditional and how to identify them; Amy/Phil to reply to Katie's mail 
+Continue to meet with Marta's team; review this week final table structure for data conversion 
+Meet with TH team on Tuesday; review re: Collections 
+Set up meeting with Phil , Tuesday 
+ 
+UI 
+Sprint 6 deployed to Dev today; internal testing in progress 
+sprint review next week on Thursday (Sept 14) 
+Reviewing calendar functionality & effort, discuss on Thursday 
+1 team member may be departing from ACN 
+Performance test topic for review 
+Connect with integration team re: meta tagging; review solution options  
+ 
+Testing 
+Sprint 6 UI test cases reviewed; questions addressed 
+Meeting with data team again on Tuesday 
+CD test data prep; scenarios un der review; mock data available to use for test scenarios 
+ 
+ 
+Integration & Architecture  
+Reviewing data requirements & defining integration solution blueprint 
+Add performance consideration into the design & testing 
+ 
+Insights  
+Set up in progress 
+Send names to amy for access to MS Teams 
+Licenses in progress; need GL code...connect with Judy 
+Send TFS link (Amy) 
+Data Lake "access" – Elizabeth Rivas;  Amy mtg with Liz today 
+Getting Ellyn involved – Jim working on the approach 
+Connect re: designs & requirements 
+ 
+Product Owner 
+Finalizing reference data, on target for end of week 
+Refining backlog 
+Reviewing Tier assignment for Ops purposes (business case required) 
+TH dashboard needs some performance review – define targets (employee, admin, algorithm) 
+Continue to refine backlogs to get more precision on delivery timing 
+   
+ 

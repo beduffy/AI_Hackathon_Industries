@@ -1,0 +1,92 @@
+
+TEAM PROGRESS TO DATE 
+  
+Data 
+Inception wrapping up this week 
+Confirm with Liz re: mechanism to ingest conversion data to DL 
+Backlog in progress for Sprint 1 (4 stories POC ingestions & formatting) 
+Complete data source matrix - tables & names (dependency on data source teams) 
+Environment requested – to be completed on Monday 
+North America and Phil. data approve received 
+Reviewing sources, in particular data from Common Demand to evaluate possibility of using for data conversion 
+MME data – obtain from Common Demand; no Industry skill for IDC/PDC (stored in a different field) 
+Are there needs to keep CD in DL or not – check with CD & CAP 
+  
+Algorithms 
+New sandbox being requested 
+Met with Test team 
+Met with Marta re: data 
+Alg arch changes in progress 
+  
+UI 
+Sprint 4 to wrap up on Wed (Aug 2) 
+Sprint 5 stories identified 
+Admin stories – begin discussing for Sprint 6 
+Demo on Wed; Jim will attend 
+Continuing to review widget approach with people team (in progress) 
+  
+Testing 
+ 
+UI test cases added in TFS; under review with Bill 
+Updating TFS dashboard 
+Preparing input/output data 
+Need test users and access to CAP - for ingestion will get access to Data Lake 
+Daily call with data team 
+  
+Integration 
+  
+Insights 
+  
+Product Owner 
+Admin stories for mass upload (UI or TH?) 
+ITF work in progress; testing will need to be synced up (bringing skill IDs from CD) 
+Starting backlog for TH in xls 
+Mickey to help create backlog for insights stories (he'll be Prod Owner) 
+   
+  
+  
+TEAM PLANNED WORK / TO DO 
+  
+Data 
+Environment configuration 
+Continue with sprint 1 next week (2 weeks for POC for team members to learn) 
+Expecting data privacy approval from India in 1-2 weeks 
+  
+Algorithms 
+Continue to meet with Test team 
+Follow up meeting with Marta 
+Work with common demand - ingesting data (REBAR, DL) 
+Mtg on Friday with CD 
+Work with Natalia re: test users and CAP access 
+  
+UI 
+Sprint 4 demo next week - Wed…time adjusted so Jim can attend 
+  
+Testing 
+Test prep work 
+Updating cases in TFS 
+  
+Integration 
+  
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Watch sandbox set up; needs to be setup…working with CAP  
+Making a decision about Common Demand data for conversion rather than multiple sources (mySch and Abacus)  
+  
+Algorithms 
+  
+UI 
+  
+  
+Testing 
+Watching delivery of test cases within the sprint 
+  
+Integration 
+  
+Insights 
+  
+ 

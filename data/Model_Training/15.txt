@@ -1,0 +1,79 @@
+
+TEAM PROGRESS TO DATE 
+ Data Conversion 
+Send CV data request 
+CD & SAP are ready to send today (Ed to log requests) 
+Use Big File/One Drive to receive from Sources 
+Store data in individual tables in TH 
+Jim to weigh in re: how to handle data privacy countries not yet approved (Europe); will only incorporate any approved countries in the next "natural" extract, no "special" request to be included...not considered a blocker for Day 1 
+ 
+Algorithms 
+Replan in progress. 
+Confirmed Ops resources who can participate (Ankur/Vivek) 
+ 
+UI 
+Bill reviewed new UI approach with Ops team 
+Reviewed remaining stories today 
+Sprint 6 planning meeting on Monday 
+1 defect returned from Test team 
+ 
+Testing 
+Started UI sprint 5 testing; 2 scripts in progress, 10 scripts pending 
+CD integration test scenarios reviewed with CD team yesterday 
+Integration test schedule; roll off resources end Oct 
+ 
+Integration 
+CD integration 
+Conceptual Model defined 
+ 
+Insights  
+Team identified 
+Begin to shape backlog  
+Product Owner to be named 
+ 
+Product Owner 
+Reviewing Tier assignment for Ops purposes (business case required) 
+TH dashboard needs some performance review – define targets (employee, admin, algorithm) 
+Continue to refine backlogs to get more precision on delivery timing 
+   
+TEAM PLANNED WORK / TO DO 
+   
+Data Conversion 
+ 
+ 
+Algorithms 
+ 
+ 
+UI 
+ 
+ 
+ 
+Testing 
+ 
+ 
+Integration 
+ 
+ 
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Data Privacy approval for "complex" countries 
+ 
+Algorithms 
+Availability of Test Data 
+ 
+UI 
+ Screenshot from People team for splash admin page 
+ 
+Testing 
+Aligning timeline for integration testing with CD 
+Rebar staging access & usage – see forwarded mail from Katie 
+ 
+Integration 
+ 
+Insights 
+  
+ 

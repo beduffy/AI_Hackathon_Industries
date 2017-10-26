@@ -1,0 +1,64 @@
+
+ 
+ 
+TEAM PROGRESS TO DATE 
+Data Conversion 
+Sprint 2 starts today – develop planned to be completed 
+Planning meeting today to commit stories (11 total identified) 
+Server is installed; database to be installed and ready on Tuesday 
+Connectivity with TH – port to be opened (low); AMY review documents from Marta re: opening 
+ 
+ 
+Algorithms 
+Sprint 2 starts today Planning Poker; meeting to commit stories 
+Merging  sprint 1 to TH solution 
+Meeting with Helena Tuesday 
+Meeting with Test team on Tuesday 
+Estimated velocity 25-30 points 
+ 
+ 
+Integration & Architecture  
+Met wit Alg team on solution integration - Ryan/Matik  
+UI proximity skills update 
+Sprint 2 planning mtg today 
+Add performance consideration into the design & testing 
+ 
+ 
+Insights  
+Met with Cesar; proceed with Qlikview (rather than Qliksense) 
+Sprint 2 planning call today 
+Licenses – CR raised 
+Tuesday call with Phil to review tech arch with DL 
+CAP team documents for onboarding in progress 
+Data Lake access – working with Liz Rivas 
+More discussions with leaders this week/next 
+ 
+ 
+UI 
+Sprint 7 build wrapping up; 2 weeks due to China holiday 
+Sept 29 – Sprint 7 demo 
+Prepare data for testing team  
+Drafting estimate for Sprint 8 integration stories; review in today's meeting 
+ 
+ 
+Testing 
+Sprint 6 UI testing completed – 3 items identified to be review with UI team 
+UI Sprint 7 testing starting this week 
+Need access to server for data conversion testing – can log in but still addressing issue with Conchi; need remote desktop 
+Met with Abacus today; questions to review with Bill 
+Meeting with Alg team Tuesday 
+Storing JSON or not – pending to confirm for data patrols; need input with Phil 
+ 
+ 
+ 
+Product Owner 
+Backlog updated yesterday 
+UI Integration meeting this week (Wed) - AMY to forward as appropriate 
+Default values for Client & Project for SAP data, self assessments & Certs (Jim/Katie) 
+Meeting with Ellyn on Tuesday to discuss "calculations" for proficiency; focused on time to proficiency (~7 years to expert) 
+Dashboard review dates with Ellyn in progress 
+Need to ensure AFS data is not included in UI test data set (company code 1010) 
+Reviewing Tier assignment for Ops purposes (business case required) 
+TH dashboard needs some performance review – define targets (employee, admin, algorithm) 
+   
+ 

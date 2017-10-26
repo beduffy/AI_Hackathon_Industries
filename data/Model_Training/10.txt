@@ -1,0 +1,80 @@
+
+TEAM PROGRESS TO DATE 
+ Data Conversion 
+Common Demand – do all records have a CD ID?? 
+Yes, all records will have a CD ID.  
+There can be multiple demand events for a single Demand record due to updates – all will share that CD ID. 
+There is a unique Message ID to identify the events for each Demand record. 
+
+ 
+Algorithms 
+Only 2 stories were completed from the Committed work out of 28 – remaining 4 were bugs that were resolved. 
+ 
+UI 
+2nd week of Sprint 5 – scope changed but burndown is still looking good 
+Flash and Admin exceed remaining velocity but team will work to try and finish 
+Gone Fishing has been pushed to next Sprint 
+Screenshot / wireframe to be used for guidance on structure only. 
+ 
+Testing 
+UI Testing – new test cases created, including for Bugs 
+Team to review with Bill – today or Monday 
+US#19808 – processing test data for this story now and will validate later 
+Move Sprint 1 stories to Sprint 2 where they are no longer relevant (CV Resume stories should be on-hold for now) 
+ 
+Integration 
+Insights  
+Product Owner 
+Admin stories for mass upload (UI or TH?) 
+ITF work in progress; testing will need to be synced up (bringing skill IDs from CD) 
+Starting backlog for TH in xls 
+Mickey to help create backlog for insights stories (he'll be Prod Owner) 
+   
+  
+TEAM PLANNED WORK / TO DO 
+   
+Data Conversion 
+Question from Common Demand – Is there a requirement to tag the Optional Skills as 1, 2, 3 etc? Will a weighting be placed on them during execution of the algorithms? [KS] Primary will be the main focus. No need to determine ordering for Optional. 
+ 
+Algorithms 
+ 
+ 
+UI 
+2nd week of Sprint 5 still in progress 
+Arthur to respond to Qs from Miguel and Bill (Bugs and non-integration stories) 
+At present there are no concerns from the team on the remaining work. 
+Bill to make amendments to some stories and review with team. 
+ 
+Testing 
+For UI 10/13 test cases approved. Remaining 3 to be closed today. 
+CAP/Alg team unavailable today to provide test data. 
+9 Test Cases remain in this Sprint. 4 are in progress. 
+Nikil & Aira were provided with a workaround for the test cases (UI Sprint 4)they have no data for. 
+Natalia focussing on creating test data for remaining Sprint 1 test cases (9) today – will share with CAP team.  
+ 
+ 
+Integration 
+ 
+ 
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Watch sandbox set up; needs to be setup…working with CAP  
+Making a decision about Common Demand data for conversion rather than multiple sources (mySch and Abacus)  
+ 
+Algorithms 
+Availability of Test Data 
+ 
+UI 
+ Screenshot from People team for splash admin page 
+ 
+Testing 
+Watching delivery of test cases within the sprint 
+Availability of Test Data  
+Integration 
+Insights 
+  
+ 

@@ -1,0 +1,107 @@
+
+TEAM PROGRESS TO DATE 
+  
+Data 
+Environment configuration – Monday - Complete 
+PC configuration – Tuesday – Ongoing x1 
+POC for Ingestion from Tuesday onwards – Started today 
+Continue with sprint 1 next week (2 weeks for POC for team members to learn) 
+Expecting data privacy approval from India in 1-2 weeks 
+  
+Algorithms 
+Continue to meet with Test team – Natalia.. 
+Follow up meeting with Marta 
+Work with common demand - ingesting data (REBAR, DL) 
+Mtg on Friday with CD 
+Alg arch changes in progress – ongoing. Jose (SME) has returned from PTO. Alg 1 & 2 replatformed to Scala. 
+Miguel to support team on Tech questions 
+Sprint 1 user story review to happen tomorrow – mail to be sent tomorrow with reconciliation of work effort 
+  
+UI 
+Sprint 4 demo next week - Wed…time adjusted so Jim can attend 
+Demo on Wed; Jim will attend 
+Continuing to review widget approach with people team (in progress) - initial POC to be provided this week. 
+In next 1 / 2 sprints team need to focus on backend development to prevent a blocker on UI progress from occurring. - Arthur to update Amy this week. 
+Stories in place to begin Sprint 5. 3 weeks needed to work on Admin Stories – understand deep requirements. 
+Admin stories to be worked in Sprint 6 - potentially.. 
+  
+Testing 
+Alg team to meet with Natalia for testing 
+Test prep work 
+Updating cases in TFS for new stories 
+They will begin testing for all previous sprints – UI (regression) - Testing underway for Sprint 1. 
+UI Test Cases have been assigned, but testing not started for ALg 1 as CAP is not ready. Team are working to prepare test data. 
+Sandbox access is delayed. 
+From Wed they will begin testing for Sprint 4 – UI 
+Rui to ensure Testing and CAP Dev teams review the Test Suites together before testing begins 
+Had call with CAP team to discuss test cases around Alg 1. 
+Confirmation needed on where to source data from for testing. 
+  
+Integration 
+  
+Insights 
+  
+Product Owner 
+Admin stories for mass upload (UI or TH?) 
+ITF work in progress; testing will need to be synced up (bringing skill IDs from CD) 
+Starting backlog for TH in xls 
+Mickey to help create backlog for insights stories (he'll be Prod Owner) 
+   
+  
+TEAM PLANNED WORK / TO DO 
+  
+Data 
+Continued work with common demand – Requested additional samples, and clarification on sample data provided. 
+Dave C and Phil C meeting with CD daily to finalize approach. 
+POC for Ingestion is in progress. 
+Continue with sprint 1 next week (2 weeks for POC for team members to learn) 
+Expecting data privacy approval from India in 1-2 weeks 
+Met with Test & Algorithm team to discuss test data. 
+  
+Algorithms 
+Work with common demand - ingesting data (REBAR, DL) 
+Alg arch changes in progress – ongoing. Jose (SME) has returned from PTO. Alg 1 & 2 re-platformed to Scala. 
+Miguel to support team on Tech questions 
+Sprint 1 user story review to happen tomorrow – mail to be sent tomorrow with reconciliation of work effort 
+Continued work on User Stories – 6 for this Sprint, early risk of missing 1 story from sprint. 
+Sprint Showcase at the end of next week. Gloria to send invite next week.(Need to ensure sufficient continuity of cover.) 
+  
+UI 
+Planning meeting for Sprint 5 today / next Monday. Shorten sprint to just 2 weeks. 
+Project View – Landing Story is currently on hold which is reducing the scope of Sprint 5. 
+Dev environment issue encountered yesterday, and has now been resolved. (Login issue) 
+Continuing to review widget approach with people team (in progress) - initial POC to be provided this week. 
+In next 1 / 2 sprints team need to focus on backend development to prevent a blocker on UI progress from occurring. - Arthur to update Amy this week. 
+Admin stories to be worked in Sprint 6 - potentially.. 
+  
+Testing 
+Will begin work on manual test data preparation by Test team. 
+Dev team will manually load data and run Alg1 
+Test prep work is ongoing - Recreating Test Plan & updating Cases in TFS for new stories – Test Plan is restructured, test cases ready for all Sprints. 
+They will begin testing for all previous sprints – UI (regression) - Testing underway for Sprint 1. - 11/20 UI test cases executed. 
+ 
+  
+Integration 
+  
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Watch sandbox set up; needs to be setup…working with CAP  
+Making a decision about Common Demand data for conversion rather than multiple sources (mySch and Abacus)  
+  
+Algorithms 
+  
+UI 
+  
+  
+Testing 
+Watching delivery of test cases within the sprint 
+  
+Integration 
+  
+Insights 
+  
+ 

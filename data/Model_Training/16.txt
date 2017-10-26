@@ -1,0 +1,82 @@
+
+TEAM PROGRESS TO DATE 
+ Data Conversion 
+Data requests sent (CD, SAP, CV Resume, Abacus Ops pending) 
+Use one drive to receive data; Ed controlling access 
+Call with TH today re: store data in individual tables in TH; confirm if Staging or Prod 
+ 
+ 
+Algorithms 
+Replan in progress. 
+Confirmed Ops resources who can participate (Ankur/Vivek) 
+ 
+UI 
+Sprint 6 planning meeting today 
+Pending team PTO, revising team velocity 
+Lock stories on Tuesday 
+ 
+Testing 
+Sprint 5 UI testing, 17 test cases, 5 passed, 1 failed, 10 pending 
+Meeting CD test team on Tuesday to discuss test scripts 
+ 
+ 
+ 
+Integration & Architecture  
+CD integration – pending tech sign off; review with Phil 
+Abacus Operations (open point) 
+Conceptual Model defined 
+ 
+Insights  
+Team identified 
+Begin to shape backlog – start this week 
+Product Owner to be named – Katie for interim 
+ 
+Product Owner 
+High level sprint plan for Wed  
+Reviewing Tier assignment for Ops purposes (business case required) 
+TH dashboard needs some performance review – define targets (employee, admin, algorithm) 
+Continue to refine backlogs to get more precision on delivery timing 
+   
+TEAM PLANNED WORK / TO DO 
+   
+Data Conversion 
+TH location confirmation 
+Sep 6 deadline to receive data 
+Complete user stories for cleansing 
+Send Abacus Ops request this week 
+Define tables in TH for ingestion 
+ 
+Algorithms 
+ 
+ 
+UI 
+ 
+ 
+ 
+Testing 
+ 
+ 
+Integration 
+ 
+ 
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Data Privacy approval for "complex" countries 
+ 
+Algorithms 
+Availability of Test Data 
+ 
+UI 
+  
+ 
+Testing 
+Aligning timeline for integration testing with CD 
+Rebar staging access & usage – see forwarded mail from Katie 
+ 
+Integration 
+ 
+Insights 

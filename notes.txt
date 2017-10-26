@@ -1,0 +1,16 @@
+curl -s -H "Content-Type: application/json" \
+    -H "Authorization: Bearer access_token" \
+    https://speech.googleapis.com/v1/speech:recognize \
+    -d @sync-request.json
+
+
+
+curl -s -H "Content-Type: application/json" \
+        -H "Authorization: Bearer ya29.GlvwBPYqg_lgXS4c66o7WIy1b4hSNHYStkg5XKIZwr7e41HXWvN10zTEdhenipiZKC_kQhYjrwP8bvBWoFhp0Ucqc37tmQaVZjn68XW9dersThSewAQ9BvWkIs-9" \
+        https://speech.googleapis.com/v1/speech:recognize \
+        -d @sync-request.json
+
+
+curl -s -H "Content-Type: application/json" -H "Authorization: Bearer ya29.GlvwBPYqg_lgXS4c66o7WIy1b4hSNHYStkg5XKIZwr7e41HXWvN10zTEdhenipiZKC_kQhYjrwP8bvBWoFhp0Ucqc37tmQaVZjn68XW9dersThSewAQ9BvWkIs-9" https://speech.googleapis.com/v1/speech:recognize -d @sync-request.json
+
+curl -s -H "Content-Type: application/json" -H "Authorization: Bearer ya29.GlvwBPYqg_lgXS4c66o7WIy1b4hSNHYStkg5XKIZwr7e41HXWvN10zTEdhenipiZKC_kQhYjrwP8bvBWoFhp0Ucqc37tmQaVZjn68XW9dersThSewAQ9BvWkIs-9" https://speech.googleapis.com/v1/speech:recognize -d @sync-request.json

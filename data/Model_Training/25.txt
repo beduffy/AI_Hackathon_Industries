@@ -1,0 +1,64 @@
+
+ 
+ 
+TEAM PROGRESS TO DATE 
+Data Conversion 
+Sprint 2 in progress – develop planned to be completed 
+1 story done, 6 in progress, 2 not started 
+Server is installed 
+Connectivity with TH – port to be opened (low); AMY review documents from Marta re: opening; Gonzalo Porras (IO opens ports on Wed & Fri) 
+Test team access  - need remote desktop to see CD files 
+ 
+ 
+Algorithms 
+Sprint 2 stories started 
+Reviewed data model changes 
+Review config stories with Phil 
+Move backlog to TFS from 03 to 06 (Starling)?  check wth  Jim Szubyrt 
+Meeting with Test team on Tuesday 
+Estimated velocity 25-30 points 
+Diego leaving ACN, replacement identified  
+Additional resource from SPR next week 
+ 
+Integration & Architecture  
+Met re: skill history table structure 
+Planning mtg today for Integration; address any overlap with Alg team 
+Admin UI for proximity to complete Fri 
+Add performance consideration into the design & testing 
+ 
+ 
+Insights  
+Dashboard redesign in progress per Jim's feedback 
+CAP sandbox that Marta's team was going to use can be leveraged by Insights team 
+Connect with Marta about populating sandobx 
+Licenses – CR raised 
+Loaner licenses in progress 
+Leader discussion today and next session TBD 
+Dates with Ellyn not locked down 
+CAP team documents for onboarding in progress 
+ 
+UI 
+Sprint 7 dev done today and deployed to dev; internal testing  
+Sept 29 – Sprint 7 demo 
+Meeting today re: integration stories today 
+Drafting estimate for Sprint 8 integration stories; review in today's meeting 
+ 
+ 
+Testing 
+Sprint 6 UI testing completed – 1 defect 
+UI Sprint 7 testing smoke testing started 
+access to server for data conversion testing – testing started; need remote desktop 
+Met with Abacus today; clarified re: data patrols 
+Alg test cases being reviewed with Bill & Katie 
+Reviewing Sprint 2 stories 
+ 
+ 
+Product Owner 
+Alg 2 sprint stories updates, Assessment Type & Method to include existing TH data 
+MME & mySch Industry skills issue – but doesn't impact S@S 
+Dashboard review dates with Ellyn in progress 
+Need to ensure AFS data is not included in UI test data set (company code 1010) 
+Reviewing Tier assignment for Ops purposes (business case required) 
+TH dashboard needs some performance review – define targets (employee, admin, algorithm) 
+   
+ 

@@ -1,0 +1,89 @@
+TEAM PROGRESS TO DATE 
+ Data Conversion 
+Sprint 1 in progess 
+POC for CD 
+POC for ingesting csv 
+Submit request for server (WBS confirmed) to complete POC in server 
+Evaluate conversion for CD & CV and impacts for UI 
+ 
+Algorithms 
+Team reviewing FDs & set up meeting with Bill (schedule on Thurs 7:30 Chicago) 
+Helena has provided backlog; Luis to review  
+Met with TH Ops team 
+Wkly mtg to be set up with Data team 
+Define technical solution with Tech Arch input 
+ 
+UI 
+Second week of Sprint 6, complete dev this week 
+Move sprint review next week to Thursday (Sept 14) 
+Questions from skills.acn Ops team  re: timing plan for new look & feel deployment 
+ 
+Testing 
+Sprint 6 test cases read for review today 
+All leads please include test team in Planning calls 
+CD test data prep 
+ 
+ 
+Integration & Architecture  
+CD integration –done  
+Amy to send conceptual data model 
+Add performance consideration into the design & testing 
+ 
+Insights  
+Connect with Jim on Thursday to showcase Qlik 
+Qlik licenses for two team members (Cesar Sandoval) 
+Data Lake "access" – Elizabeth Rivas 
+Getting Ellyn involved – Jim working on the approach 
+ 
+Product Owner 
+Reviewing Tier assignment for Ops purposes (business case required) 
+TH dashboard needs some performance review – define targets (employee, admin, algorithm) 
+Continue to refine backlogs to get more precision on delivery timing 
+   
+TEAM PLANNED WORK / TO DO 
+   
+Data Conversion 
+Complete user stories for cleansing 
+Send Abacus Ops request this week 
+Meeting with Common Demand tomorrow regarding backup of DB  
+Still to determine if this approach will cost $ to extract data 
+Need confirmation from the Algorithms team to ensure their output format is correct. 
+ 
+Algorithms 
+Need to review functional design deliverables with Helena. 
+Need to understand if Helena has validated the data being delivered by Marta's team. 
+ 
+UI 
+ 
+ 
+ 
+Testing 
+Start sprint 6 planning test cases 
+Follow up mtg with CD test team tomorrow; working on test data template & prep data 
+Test Data Management – will provide progress update on next call. 
+ 
+Integration 
+ 
+ 
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Data Privacy approval for "complex" countries 
+Time to complete stories for starting Sprint 1 
+ 
+Algorithms 
+Availability of Test Data 
+ 
+UI 
+  
+ 
+Testing 
+Aligning timeline for integration testing with CD 
+Rebar staging access & usage – see forwarded mail from Katie 
+ 
+Integration 
+ 
+Insights 

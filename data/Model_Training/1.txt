@@ -1,0 +1,69 @@
+ TEAM PROGRESS TO DATE 
+  
+Data 
+Inception wrapping up this week 
+2 developers starting today 
+Solution & arch blueprints in progress; mtg with Liz on Tues 
+Backlog in progress 
+Complete data source matrix 
+  
+Algorithms 
+Planning mtg last Friday 
+Sprint started today 
+TFS structure set up 
+  
+UI 
+Second week of sprint 4 
+  
+  
+Testing 
+Mtg scheduled for Tuesday with Luis & Luciana 
+Need test users and access to CAP - for ingestion will get access to Data Lake 
+Work with Luis to prepare data to be used for development & testing until integration is available 
+  
+Integration 
+  
+Insights 
+  
+Product Owner 
+ITF work in progress; testing will need to be synced up (bringing skill IDs from CD) 
+   
+  
+  
+TEAM PLANNED WORK / TO DO 
+  
+Data 
+Start sprint 1 next week 
+  
+Algorithms 
+Meet with Natalia to discuss approach for testing 
+Work with Natalia re: test users and CAP access 
+  
+UI 
+Mtg with people.acn team this week (likely Wed) re: widget approach 
+Sprint 4 demo next week - Wed…time adjusted so Jim can attend 
+  
+Testing 
+Update TFS 
+  
+Integration 
+  
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Watch sandbox set up; needs to be setup…working with CAP  
+  
+Algorithms 
+  
+UI 
+Deployment to dev servers, troubleshooting some functionality issues reported by Bill 
+  
+Testing 
+  
+Integration 
+  
+Insights 
+ 

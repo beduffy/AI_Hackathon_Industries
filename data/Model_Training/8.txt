@@ -1,0 +1,104 @@
+
+TEAM PROGRESS TO DATE 
+  
+Data 
+Ed to work with CAP and Test teams on test data preparation 
+Conversion process not available so test data will be prepared manually 
+Recommended that test data use the SAP sample data as basis for Employee profiles (known active employees) 
+Role and Skill history data will be pulled in from existing Reference data and previously prepared test data (provided by Katie) 
+ 
+ 
+Algorithms 
+Refactoring for Alg 1 today 
+Reviewing the need for new columns etc. 
+Refactoring will be completed tomorrow for Alg 1, plus 50% of Alg 2 
+Replatform to Spark 
+Filter data for restricted countries, company codes etc using 'Ranger'. (https://es.hortonworks.com/apache/ranger/ ) 
+Ranger being configured in Sandbox at present 
+Reviewed functional questions with Katie 
+ 
+ 
+UI 
+Continue development for the current Sprint. 
+Impediment: Screenshot from People team for splash admin page; some overall questions just sent to Jim for confirming. 
+Katie following up with Arthur on this – Jim sent a mail on Friday. 
+ 
+ 
+Testing 
+Preparation of test data for Alg 1 is in progress – some questions outstanding. 
+Natalia has an issue with her account for MSDN – not an issue with Test Manager. 
+Overall issue with MSDN still to be resolved – not at team level. 
+Pending questions with Arthur – delaying progress on closing out UI test cases. 
+Need to know when CAP will be ready for testing and what testing can be completed at this time. 
+ 
+Integration 
+  
+Insights 
+  
+Product Owner 
+Admin stories for mass upload (UI or TH?) 
+ITF work in progress; testing will need to be synced up (bringing skill IDs from CD) 
+Starting backlog for TH in xls 
+Mickey to help create backlog for insights stories (he'll be Prod Owner) 
+   
+  
+TEAM PLANNED WORK / TO DO 
+   
+Data 
+Common Demand – do all records have a CD ID?? 
+Yes, all records will have a CD ID.  
+There can be multiple demand records for a single Demand record due to updates – all will share that CD ID. 
+There is a unique Message ID to identify the events for each Demand record. 
+
+ 
+ 
+Algorithms 
+Issue in POC – how skills are being captured from Assigned Role will be fixed in this Sprint 
+Working on exclusion on countries and company codes – impediment with Ranger tool – check config in alternative environment. 
+Also solve for exclusion of withdrawn / retired employees 
+Environment ready for demo tomorrow  -demo on Friday 
+ 
+ 
+UI 
+Last day of week 1 for Sprint 5 
+1 impediment – owing to Sprint re-plan on Monday 
+Is the Back-end Admin page & gone fishing? Who can we confirm this with? 
+Team need a sample backend UI wireframe. 
+Team reached out to Mandy to see if there is a design framework to follow. 
+Team will provide an early look into the design of the Splash screen.  
+ 
+ 
+Testing 
+UI test cases complete – 8 successful, 7 failed. 
+People Team widget no applicable 
+Had call for Mock Data preparation for UI testing 
+Team will talk to Gloria about the scope to define Test approach for each Sprint 
+Team will use Skill IDs for matching purposes to match older skills to current values. 
+ 
+ 
+Integration 
+  
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Watch sandbox set up; needs to be setup…working with CAP  
+Making a decision about Common Demand data for conversion rather than multiple sources (mySch and Abacus)  
+  
+Algorithms 
+Availability of Test Data 
+  
+UI 
+ Screenshot from People team for splash admin page 
+  
+Testing 
+Watching delivery of test cases within the sprint 
+Availability of Test Data  
+  
+Integration 
+  
+Insights 
+  
+ 

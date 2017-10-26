@@ -1,0 +1,65 @@
+
+ 
+ 
+TEAM PROGRESS TO DATE 
+Data Conversion 
+Ingestion stories are done 
+MyCV - requested data again due to the name issues 
+CD update to ingestion package, need to ingest some additional fields  
+Select population story done 
+Cleansing user stories in progress for review with Deb 
+SAP story start tomorrow 
+Server is installed; database to be installed and ready on Tuesday 
+Reviewing reference data; meetings with Phil in progress; table approach mtg on Tuesday with Phil/Ryan 
+Discuss Specialization collections open point with Katie – mtg with Phil/Amy (embed collections in Specializations) 
+Close plan for CAMS, Cert data; Marta to update workstream plan 
+ 
+ 
+Algorithms 
+Reviewed reference data with Conchi 
+Database changes are checked in  
+Joining Tuesday meeting with Data & Integration 
+Tuesday meeting re: contextual skill logic 
+Connect with Test team 
+Meetings with Helena started re: POC calculations approach 
+Refinement meeting this week 
+ 
+ 
+UI 
+Sprint 7 planning today; 2 weeks due to China holiday 
+Sept 29 – Sprint 7 demo 
+Drafting estimate for Sprint 8 integration stories 
+ 
+ 
+Testing 
+Sprint 6 UI testing in progress (to complete by Wed) 
+Monday UI Sprint 7 planning meeting done; planning in progress; scripts ready on Wed 
+Need access to server for data conversion testing (Wed) 
+Met today with Abacus team re: integration scenarios & working on data prep 
+Meeting planned with Algorithm team  
+Connect with Phil re: rebar messages from CD; message bus testing tool (connect with Adam Tybor's team) 
+Storing JSON or not 
+ 
+Integration & Architecture  
+All environments set up 
+Proximity skills coding in progress 
+Update UI in TH admin; Katie to review list of UI items 
+Ryan – TFS access issue (escalated with TFS team) AMY 
+Reviewing data requirements & defining integration solution blueprint 
+Add performance consideration into the design & testing 
+ 
+Insights  
+Licenses – CR raised 
+POC demo – updates in progress 
+CAP team documents for onboarding in progress 
+Work on backlog this week 
+ 
+ 
+Product Owner 
+Need to ensure AFS data is not included in UI test data set (company code 1010) 
+Review if really need to exclude AVA from test population or not (Katie); Amy send AVA company codes 
+Reviewing Tier assignment for Ops purposes (business case required) 
+TH dashboard needs some performance review – define targets (employee, admin, algorithm) 
+Continue to refine backlogs to get more precision on delivery timing 
+   
+ 

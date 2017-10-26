@@ -1,0 +1,125 @@
+
+TEAM PROGRESS TO DATE 
+ Data Conversion 
+Call today with data source teams to manage expectations on request & timeline (Sept 6th) 
+Heads up mail sent; All data requests should be logged this week via Service Now 
+CD & Abacus to send the queries they are using 
+Jim to weigh in re: how to handle data privacy countries not yet approved – review with Nicole C. 
+Nicole Coletta working with Data Privacy on agreement for "complex" countries (approved countries cover 82% of population) 
+ 
+ 
+CV resume & CD samples from Randy; requesting queries to include with request (Luu is the backup) 
+Target to send CD request Wed 
+SAP – following up with Andreas re: extract format (tab delimited vs csv) 
+Sept 8th data to return requests 
+ 
+Review impacts of algorithms platform change & update blueprint 
+Update backlog (Deb & Foram) 
+Lock down the key milestones for Sources to provide data 
+ 
+Question from Common Demand – Is there a requirement to tag the Optional Skills as 1, 2, 3 etc? Will a weighting be placed on them during execution of the algorithms? [KS] Primary will be the main focus. No need to determine ordering for Optional. 
+Common Demand – do all records have a CD ID?? 
+Yes, all records will have a CD ID.  
+There can be multiple demand events for a single Demand record due to updates – all will share that CD ID. 
+There is a unique Message ID to identify the events for each Demand record. 
+ 
+Algorithms 
+Replan in progress. 
+Reviewing Ops resources who can participate (Ankur/Vivek) 
+ 
+UI 
+Demo today for Sprint 5 
+Sprint 6 planning move to next Monday 
+Coordinate with test team & include in planning 
+3 mth lead time for resource roll off 
+Possible assignment change for Arthur in FY18 Q1 - TBD 
+Admin stories – evaluate impact of reusing existing admin 
+Bill to send update re: permissions and home page today 
+Estimate done on remaining non-integration stories (Arthur); confirm stories have priorities (Bill) 
+ 
+ 
+Testing 
+Algorithm testing stories; reuse for new platform; reset the effort and story points 
+Sprint 5 testing begin today 
+CD integration scripts in progress/ call with them tomorrow 
+Focus on UI (Sprint 5) ~1 week; then start Sprint 6 
+CD test conditions in progress  
+Reviewing/Preparing test case for algorithms to the extent info is available and sample test data 
+Natalia PTO next 3 weeks Nikhil will provide back up 
+ 
+Integration 
+CD integration – functionally requirements identified; pending technical review; need more information in the messages 
+ 
+Insights  
+ 
+Product Owner 
+This week – milestone plan in prep for next week's update with Greg 
+Data for testing and all scenarios  
+Collections  
+Admin stories for mass upload (UI or TH?) 
+ITF work in progress; testing will need to be synced up (bringing skill IDs from CD) 
+Starting backlog for TH in xls 
+Mickey to help create backlog for insights stories (he'll be Prod Owner) 
+   
+  
+TEAM PLANNED WORK / TO DO 
+   
+Data Conversion 
+Following up on open questions regarding the age of Common Demand data – Abacus & myScheduling. 
+Moving forward with updates to documentation – Detailed Scope, Approach, Workplan & Backlog. 
+Common Demand to replace myScheduling and HRRA. 
+CV Resume data to be sourced directly. (42% of records have an edited End Date in CV Resume) 
+SAP data will be sourced directly, as well as from Lake. 
+Only Abacus Tech confirmed as being in Common Demand entirely. 
+Solution Blueprint to be revised when Conchi returns from PTO. 
+Other deliverables will be completed during Sprint 2 as Foram is on PTO this week. 
+Additional tables CAP are looking to ingest from TH are not ready yet in TH. Design is still in progress there. 
+ 
+Algorithms 
+Sprint 2 planning has been put on hold today. 
+Team working to assimilate Common Demand data for testing Alg 1. 
+Spark job not running outside the command line. 
+Will connect with Amy to reschedule planning meeting. 
+Ed same request for Algorithm team - There is 69 Product Backlog items without Story points  
+There is 37 Product Backlog items without Priority  
+ 
+UI 
+Demo for Sprint  next Wednesday. 
+UI stories – 40 need effort and 80 need priority. 
+16 stories still be reviewed for effort 
+Done stories will have effort updated. 
+Need to determine priority with Product Owners. 
+Open questions on administration / security of the new view(s). 
+ 
+ 
+Testing 
+ 
+
+Sprint 2 scope will be reviewed later. 
+Team have a call with the UI team for test data setup and test cases. 
+Team to have call with Bill regarding Common Demand. 
+ 
+Integration 
+ 
+ 
+Insights 
+  
+  
+IMPEDIMENTS 
+  
+Data 
+Data Privacy approval for "complex" countries 
+ 
+Algorithms 
+Availability of Test Data 
+ 
+UI 
+ Screenshot from People team for splash admin page 
+ 
+Testing 
+Watching delivery of test cases within the sprint 
+Availability of Test Data  
+Integration 
+Insights 
+  
+ 

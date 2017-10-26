@@ -1,0 +1,78 @@
+
+ 
+ 
+TEAM PROGRESS TO DATE 
+Data Conversion 
+Ingestion stories are done 
+MyCV - requested data again due to the name issues 
+CD update to ingestion package, need to ingest some additional fields  
+Select population story done 
+Cleansing user stories in progress for review with Deb 
+Get working in local for demo 
+SAP story pending to start cleansing, next Sprint 
+Server is installed; database to be installed and ready on Tuesday 
+Permission issue – Conchi working with Arg, trying to solve today (critical) 
+Connectivity with TH – port to be opened (low) 
+Reviewing reference data; meetings with Phil in progress; table approach mtg on Tuesday with Phil/Ryan 
+Discuss Specialization collections open point with Katie – mtg with Phil/Amy (embed collections in Specializations) - DONE 
+Close plan for CAMS, Cert data; Marta to update workstream plan 
+ 
+ 
+Algorithms 
+Alg 1 stories – Assigned Role to collection to end table  
+Alg 1 stories – contextual skills 
+Alg 1 stories – role to collection to end table 
+Mtg today with Test team  
+Mtg re: reference data with Conchi 
+Move to entity framework is done 
+Refinement mtg on Friday 
+AMY – invite for Monday planning meeting and future meeting invites for other sprints 
+ 
+Integration & Architecture  
+Services for proximity skill implemented 
+Collection UI updates in progress 
+Meeting with Data team today 
+Additional fields to be added to data model (coming later) to capture average P-score and discounted duration 
+All environments set up 
+Proximity skills coding in progress 
+Update UI in TH admin; Katie to review list of UI items - DONE 
+Reviewing data requirements & defining integration solution blueprint 
+Add performance consideration into the design & testing 
+ 
+Insights  
+Demo today  
+Licenses – CR raised 
+CAP team documents for onboarding in progress 
+Data Lake access – working with Liz Rivas 
+Work on backlog this week – share with Ed to work on refinement this week 
+ 
+UI 
+Sprint 7 build started; 2 weeks due to China holiday 
+Sept 29 – Sprint 7 demo 
+Sprint 6 testing – help with data prep 
+Drafting estimate for Sprint 8 integration stories; review in today's meeting 
+ 
+ 
+Testing 
+Sprint 6 UI testing in progress (to complete by Wed) 
+Admin data needed – working with UI team 
+Turning country on & off 
+Monday UI Sprint 7 start this week 
+Need access to server for data conversion testing – can log in but still addressing issue with Conchi 
+Pending questions with Abacus, following up 
+Common Demand to provide events with data by end of this week 
+Met with Algorithm team  
+Connect with Phil re: rebar messages from CD; message bus testing tool (connect with Adam Tybor's team) - pending 
+Storing JSON or not – pending to confirm for data patrols 
+ 
+ 
+ 
+Product Owner 
+Default values for Client & Project for SAP data, self assessments & Certs (Jim/Katie) 
+Meeting with Ellyn on Tuesday to discuss "calculations" for proficiency; focused on time to proficiency (~7 years to expert) 
+Dashboard review dates with Ellyn in progress 
+Need to ensure AFS data is not included in UI test data set (company code 1010) 
+Reviewing Tier assignment for Ops purposes (business case required) 
+TH dashboard needs some performance review – define targets (employee, admin, algorithm) 
+   
+ 
