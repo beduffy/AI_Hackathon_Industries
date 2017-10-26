@@ -1,0 +1,9 @@
+{
+  'sentiment': 'positive',
+  'topics': ['agile', 'ui', 'bla'],
+  summarisation: ['fgadfgadf', 'sFDSFDfs'],
+  word_freq: {
+    'ui': 150,
+    'agile': 5
+  }
+}
