@@ -12,8 +12,8 @@ import pyteaser_summary
 import sentiment
 
 # 2. Audio to text
-def audio_to_text(audio_fp, output_fn):
-    transcribe_file(audio_fp, output_folder, output_fn)
+def audio_to_text(audio_fp, output_fp):
+    transcribe_file(audio_fp, output_fp)
 
 # 3.1 Summarisation
 def summarise_text(title, text):
@@ -51,29 +51,25 @@ def word_cloud(text, output_image_fp):
     import word_cloud
     word_cloud.create_word_cloud(text, output_image_fp)
 
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument(
-        'path', help='Audio file to be recognized')
-    args = parser.parse_args()
-
+def process(audio_fp):
     global_JSON = {}
     output_folder = 'intermediate_data'
-    intermediate_fn = 'Nightfall1.txt'
-    intermediate_fn = 'Nightfall_Long.txt'
+    '''intermediate_fn = 'Nightfall1.txt'
+    intermediate_fn = 'Nightfall_Long.txt'''
 
     #output_folder = 'data/Model_Training'
-    #intermediate_fn = '26.txt'
-    intermediate_fp = output_folder + '/' + intermediate_fn
-
+    intermediate_fn = audio_fp.split('/')[-1]
+    #intermediate_fp = output_folder + '/' + intermediate_fn
+    intermediate_fp = 'intermediate_data/' + intermediate_fn
     # ------ output_text
     print('Beginning to process audio and converting to text')
-    #audio_to_text(args.path, intermediate_fn)
+    audio_to_text(audio_fp, intermediate_fp)
     print('Finished processing audio file')
 
     audio_text_file_raw = open(intermediate_fp, 'r')
     text_from_file = audio_text_file_raw.read()
 
+    print ('Text from file:\n\n', text_from_file)
     #text_from_file = text_from_file.decode('utf-8')
     #sys.exit()
 
@@ -88,7 +84,13 @@ if __name__ == '__main__':
     #process_topics(text_from_file)
 
     # 3.4. todo: Able to run for any text.
-    word_cloud(text_from_file, 'data/Nightfall.png')
+    word_cloud(text_from_file, 'images/' + intermediate_fn + '.png')
 
     print('Finished processing text file')
     audio_text_file_raw.close()
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        'path', help='Audio file to be recognized')
+    args = parser.parse_args()

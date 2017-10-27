@@ -29,7 +29,7 @@ import io
 
 
 # [START def_transcribe_file]
-def transcribe_file(speech_file, output_folder, output_fn):
+def transcribe_file(speech_file, output_fp):
     """Transcribe the given audio file."""
     from google.cloud import speech
     from google.cloud.speech import enums
@@ -60,16 +60,14 @@ def transcribe_file(speech_file, output_folder, output_fn):
     #file_name_middle_part = speech_file[:-4]
     #file_name_middle_part = 'Nightfall1'
 
-    output_path = output_folder + '/' + output_fn
-    f = open(output_path,'w')
+    #output_path = output_folder + '/' + output_fn
+    f = open(output_fp, 'w')
     print(response.results)
     for result in response.results:
         print('Transcript: {}'.format(result.alternatives[0].transcript))
 
         output.append(result.alternatives[0].transcript)#
         f.write(result.alternatives[0].transcript)
-
-
 
     f.close()
     print ('Saved text file from audio to path: {}'.format(output_path))

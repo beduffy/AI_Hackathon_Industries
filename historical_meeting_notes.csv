@@ -1,0 +1,65 @@
+Date,Topic,Update,Sentiment
+15/08/2017,Data,Inception wrapping up this week ,Positive
+15/08/2017,Data,two developers starting today ,Positive
+15/08/2017,Data,Solution and Architecture blueprints in progress; meeting with Stakeholders on Tues ,Neutral
+15/08/2017,Data,Backlog in progress ,Neutral
+15/08/2017,Data,Complete data source matrix ,Neutral
+15/08/2017,Algorithms,Planning meeting last Friday ,Neutral
+15/08/2017,Algorithms,Sprint started today ,Positive
+15/08/2017,Algorithms,TFS structure set up ,Positive
+15/08/2017,Testing,Meeting scheduled for Tuesday with stakeholders,Neutral
+15/08/2017,Testing,Test users don?t have access to Data Lake for ingestion testing,Negative
+15/08/2017,Testing,Delayed preparation of data to be used for development & testing until integration is available ,Negative
+15/08/2017,UI,Deployment to development servers complete,Positive
+15/08/2017,UI,Troubleshooting some functionality issues reported by tester,Negative
+31/08/2017,Data,Inception wrapping up this week ? Environment config ,Positive
+31/08/2017,Data,Environment requested ? to be completed on Monday ,Positive
+31/08/2017,Data,Confirm with Tech Arch the mechanism needed to ingest conversion data to DL ,Neutral
+31/08/2017,Data,Backlog in progress for Sprint 1 (4 stories - POC ingestions & formatting) ,Positive
+31/08/2017,Data,Complete data source matrix - tables & names (dependency on data source teams) ,Neutral
+31/08/2017,Data,"Reviewing sources, in particular Demand data to evaluate possibility of using it in conversion",Neutral
+31/08/2017,Data,Employee data obtained from Demand; no Industry skill present,Negative
+31/08/2017,Algorithms,New sandbox is configured ,Positive
+31/08/2017,Algorithms,Met with Test team ? test environment ready and data has been migrated ,Positive
+31/08/2017,Algorithms,Work with Test Lead and Scrum Master to resolve access issues for test users,Negative
+31/08/2017,UI,Sprint 4 to wrap up on Wed Aug 2 - final testing Tuesday,Neutral
+31/08/2017,UI,Critical defect to be resolved before Wednesday ,Negative
+31/08/2017,UI,Sprint 5 stories identified ? choose on Wed call after demo ,Neutral
+31/08/2017,UI,Admin stories ? begin discussing for Sprint 6,Neutral
+31/08/2017,Testing,UI test cases added in TFS; under review with customer,Positive
+31/08/2017,Testing,Updating TFS dashboard ,Neutral
+31/08/2017,Testing,Preparing input/output data ,Positive
+31/08/2017,Testing,Still need to resolve test user access issues for ingestion testing,Negative
+31/08/2017,Testing,Daily call with data team to prep test conditions,Positive
+15/09/2017,Data,Inception wrapping up this week ,Positive
+15/09/2017,Data,two developers starting today ,Positive
+15/09/2017,Data,Solution and Architecture blueprints in progress; meeting with Stakeholders on Tues ,Neutral
+15/09/2017,Data,Backlog in progress ,Neutral
+15/09/2017,Data,Complete data source matrix ,Neutral
+15/09/2017,Algorithms,Planning meeting last Friday ,Neutral
+15/09/2017,Algorithms,Sprint started today ,Positive
+15/09/2017,Algorithms,TFS structure set up ,Positive
+15/09/2017,Testing,Meeting scheduled for Tuesday with stakeholders,Neutral
+15/09/2017,Testing,Test users don?t have access to Data Lake for ingestion testing,Negative
+15/09/2017,Testing,Delayed preparation of data to be used for development & testing until integration is available ,Negative
+15/09/2017,UI,Deployment to development servers complete,Positive
+15/09/2017,UI,Troubleshooting some functionality issues reported by tester,Negative
+31/09/2017,Data,Inception wrapping up this week ? Environment config ,Positive
+31/09/2017,Data,Environment requested ? to be completed on Monday ,Positive
+31/09/2017,Data,Confirm with Tech Arch the mechanism needed to ingest conversion data to DL ,Neutral
+31/09/2017,Data,Backlog in progress for Sprint 1 (4 stories - POC ingestions & formatting) ,Positive
+31/09/2017,Data,Complete data source matrix - tables & names (dependency on data source teams) ,Neutral
+31/09/2017,Data,"Reviewing sources, in particular Demand data to evaluate possibility of using it in conversion",Neutral
+31/09/2017,Data,Employee data obtained from Demand; no Industry skill present,Negative
+31/09/2017,Algorithms,New sandbox is configured ,Positive
+31/09/2017,Algorithms,Met with Test team ? test environment ready and data has been migrated ,Positive
+31/09/2017,Algorithms,Work with Test Lead and Scrum Master to resolve access issues for test users,Negative
+31/09/2017,UI,Sprint 4 to wrap up on Wed Aug 2 - final testing Tuesday,Neutral
+31/09/2017,UI,Critical defect to be resolved before Wednesday ,Negative
+31/09/2017,UI,Sprint 5 stories identified ? choose on Wed call after demo ,Neutral
+31/09/2017,UI,Admin stories ? begin discussing for Sprint 6,Neutral
+31/09/2017,Testing,UI test cases added in TFS; under review with customer,Positive
+31/09/2017,Testing,Updating TFS dashboard ,Neutral
+31/09/2017,Testing,Preparing input/output data ,Positive
+31/09/2017,Testing,Still need to resolve test user access issues for ingestion testing,Negative
+31/09/2017,Testing,Daily call with data team to prep test conditions,Positive

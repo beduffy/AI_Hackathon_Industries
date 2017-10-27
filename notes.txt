@@ -14,3 +14,21 @@ curl -s -H "Content-Type: application/json" \
 curl -s -H "Content-Type: application/json" -H "Authorization: Bearer ya29.GlvwBPYqg_lgXS4c66o7WIy1b4hSNHYStkg5XKIZwr7e41HXWvN10zTEdhenipiZKC_kQhYjrwP8bvBWoFhp0Ucqc37tmQaVZjn68XW9dersThSewAQ9BvWkIs-9" https://speech.googleapis.com/v1/speech:recognize -d @sync-request.json
 
 curl -s -H "Content-Type: application/json" -H "Authorization: Bearer ya29.GlvwBPYqg_lgXS4c66o7WIy1b4hSNHYStkg5XKIZwr7e41HXWvN10zTEdhenipiZKC_kQhYjrwP8bvBWoFhp0Ucqc37tmQaVZjn68XW9dersThSewAQ9BvWkIs-9" https://speech.googleapis.com/v1/speech:recognize -d @sync-request.json
+
+
+from azure.storage.queue import QueueService
+
+queue_service = QueueService(account_name='pmovroaudioproc84a4', account_key='MWr7H2D76OqO9l7+sHqsVFUc8FbgtoTz4sgpV08L9JW8peK8BRU49mWt8xWZQmOgPP/IFmQTWNI0KAw/hF4e+w==')
+
+queue_service = QueueService(account_name='pmovro-audio-updated', account_key='MWr7H2D76OqO9l7+sHqsVFUc8FbgtoTz4sgpV08L9JW8peK8BRU49mWt8xWZQmOgPP/IFmQTWNI0KAw/hF4e+w==')
+
+  queue_service = QueueService(account_name='pmovroaudioproc84a4', account_key='MWr7H2D76OqO9l7+sHqsVFUc8FbgtoTz4sgpV08L9JW8peK8BRU49mWt8xWZQmOgPP/IFmQTWNI0KAw/hF4e+w==')
+
+messages = queue_service.peek_messages('pmovro-audio-updated')
+for m in messages:
+    print m.content
+    queue_service.delete_message('pmovro-audio-updated', message.id, message.pop_receipt)
+
+messages = queue_service.get_messages('pmovro-audio-updated', num_messages=16, visibility_timeout=5*60)
+for message in messages:
+    print(message.content)
