@@ -44,13 +44,18 @@ def transcribe_file(speech_file, output_fp):
     audio = types.RecognitionAudio(content=content)
     config = types.RecognitionConfig(
         encoding=enums.RecognitionConfig.AudioEncoding.LINEAR16,
-        #sample_rate_hertz=16000,
-        sample_rate_hertz=44100,
+        sample_rate_hertz=16000,
+        #sample_rate_hertz=44100,
         language_code='en-US')
     # [END migration_audio_config_file]
 
     # [START migration_sync_response]
+    #
     response = client.recognize(config, audio)
+    #operation = client.long_running_recognize(config, audio)
+
+    print('Waiting for operation to complete...')
+    #response = operation.result(timeout=90)
     # [END migration_sync_request]
     # Print the first alternative of all the consecutive results.
 
@@ -70,7 +75,7 @@ def transcribe_file(speech_file, output_fp):
         f.write(result.alternatives[0].transcript)
 
     f.close()
-    print ('Saved text file from audio to path: {}'.format(output_path))
+    print ('Saved text file from audio to path: {}'.format(output_fp))
     #output
     # [END migration_sync_response]
 # [END def_transcribe_file]
