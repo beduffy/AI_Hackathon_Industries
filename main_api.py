@@ -39,7 +39,7 @@ def process_topics(text):
     print(topics)
 
 # 3.4 word cloud
-def word_cloud(text):
+def word_cloud(text, output_image_fp):
     s = text
     s_tokens = nltk.word_tokenize(s) #s.split()
 
@@ -49,7 +49,7 @@ def word_cloud(text):
     print(Counter(s_tokens).most_common(100))
 
     import word_cloud
-    word_cloud.create_word_cloud(text)
+    word_cloud.create_word_cloud(text, output_image_fp)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -75,9 +75,6 @@ if __name__ == '__main__':
     text_from_file = audio_text_file_raw.read()
 
     #text_from_file = text_from_file.decode('utf-8')
-
-
-
     #sys.exit()
 
     print('Beginning to process text file\n')
@@ -91,7 +88,7 @@ if __name__ == '__main__':
     #process_topics(text_from_file)
 
     # 3.4. todo: Able to run for any text.
-    word_cloud(text_from_file)
+    word_cloud(text_from_file, 'data/Nightfall.png')
 
     print('Finished processing text file')
     audio_text_file_raw.close()
