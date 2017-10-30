@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Current Call Report</title>
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+<body>
+
+<h1>Current Call Report</h1>
+<div style="width: 500px;">
+ <div style="float: left; width: 200px;">Left Stuff</div>
+ <div style="float: left; width: 100px;">Middle Stuff</div>
+ <div style="float: left; width: 200px;">Right Stuff</div>
+ <br style="clear: left;" />
+</div>
+
+
+<script>
+$( document ).ready(function() {
+    console.log( "ready!" );
+      $.getJSON( "intermediate_data/output_file.json", function( data ) {
+          console.log(data);
+      })
+});
+
+</script>
+</body>
+</html>

@@ -19,6 +19,8 @@ a = urllib.urlretrieve (wav_file_url, audio_output_path)'''
 #process('data/VRO_Update_Recording_split_less_than_1min.wav')
 #sys.exit()
 
+queue_service = QueueService(account_name='pmovroaudioproc84a4', account_key='MWr7H2D76OqO9l7+sHqsVFUc8FbgtoTz4sgpV08L9JW8peK8BRU49mWt8xWZQmOgPP/IFmQTWNI0KAw/hF4e+w==')
+
 while True:
     messages = queue_service.get_messages('pmovro-audio-updated', num_messages=16, visibility_timeout=1)
 
